@@ -3,6 +3,7 @@
 version: 2.3.0
 name: apache-kafka
 displayName: Apache Kafka
+createdAt: 2021-04-07T10:00:00Z
 description: Scale applications based on an Apache Kafka topic or other services that support Kafka protocol
 license: Apache-2.0
 homeURL: https://keda.sh

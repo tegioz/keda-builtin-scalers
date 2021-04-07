@@ -3,6 +3,7 @@
 version: 2.2.0
 name: artemis
 displayName: ActiveMQ Artemis
+createdAt: 2021-04-06T10:00:00Z
 description: Scale applications based on ActiveMQ Artemis queues
 license: Apache-2.0
 homeURL: https://keda.sh
