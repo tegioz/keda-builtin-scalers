@@ -16,8 +16,10 @@ links:
   - name: Scaler code
     url: https://github.com/kedacore/keda/blob/v2.2.0/pkg/scalers/aws_cloudwatch_scaler.go
 changes:
-  - Added super cool feature
-  - Fixed some issues
+  - kind: added
+    description: Super cool feature
+  - kind: fixed
+    description: Important issue
 maintainers:
   - name: Sample maintainer
     email: sample-maintainer@email.com
