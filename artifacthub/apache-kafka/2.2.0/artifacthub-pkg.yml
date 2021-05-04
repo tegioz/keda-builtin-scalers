@@ -162,8 +162,10 @@ readme: |
         name: keda-trigger-auth-kafka-credential
   ```
 changes:
-  - Added super cool feature
-  - Fixed some issues
+  - kind: added
+    description: Super cool feature
+  - kind: fixed
+    description: Important issue
 maintainers:
   - name: Sample maintainer
     email: sample-maintainer@email.com
